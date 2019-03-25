@@ -38,9 +38,12 @@
  > 可以从能正确进入的机器里拷贝相应的文件到不能进入的机器里    
  
  如几何图形不能进入时，下载几何图形的资料包，解压到机器 /wyt/flash/综合/jihetuxing  的位置，重启就可以   
- |:--|:--|:--|  
- |应用 |下载链接 |  解压位置 |  
- |几何图形|[链接](https://pan.baidu.com/s/1tIeSChQ3XazoneQcuFMlMg) 提取码:**y56l**|/wyt/flash/综合/jihetuxing|
+ 
+ 
+  |应用 |下载链接 |  解压位置 |  
+ |----|----|----|  
+
+ |几何图形|[下载链接](https://pan.baidu.com/s/1tIeSChQ3XazoneQcuFMlMg) 提取码:**y56l**|/wyt/flash/综合/jihetuxing|
  
  
     
