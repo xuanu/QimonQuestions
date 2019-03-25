@@ -42,8 +42,7 @@
  
   |应用 |下载链接 |  解压位置 |  
  |----|----|----|  
-
- |几何图形|[下载链接](https://pan.baidu.com/s/1tIeSChQ3XazoneQcuFMlMg) 提取码:**y56l**|/wyt/flash/综合/jihetuxing|
+ |几何图形|[下载链接](https://pan.baidu.com/s/1tIeSChQ3XazoneQcuFMlMg) 提取码:**y56l**|/wyt/flash/综合/jihetuxing|  
  
  
     
